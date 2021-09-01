@@ -17,11 +17,15 @@ This is Syntax highlighted code block
 ## As well as Header 2 Style
 ### And let's not forget Header 3 Style
 
-- Bulleted
-- List
+- __Grocery List__
+- Apples
+- Peaches
+- Chocolate
 
-1. Numbered
-2. List
+1. __HW__
+2. PDF #1 - Complete
+3. PDF #2 - Complete
+4. Questions
 
 **Bold Wording** and _Italic Font_ and `Code -> Match that C++ and Python vibe` for yout text
 
