@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Layth HZ -> First GitHub Pages
 This will be an Intro to some of the commands of the Github Editor
 
 Here is an example of creating a link as followed: You can use the [editor on GitHub](https://github.com/lhassanz/LaythHassanZubaidi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
