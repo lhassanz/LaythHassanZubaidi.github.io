@@ -1,19 +1,21 @@
 ## Welcome to GitHub Pages
+This will be an Intro to some of the commands of the Github Editor
 
-You can use the [editor on GitHub](https://github.com/lhassanz/LaythHassanZubaidi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is an example of creating a link as followed: You can use the [editor on GitHub](https://github.com/lhassanz/LaythHassanZubaidi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+###Extra Info on Newly created _Pages_
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Intro to Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for following examples:
 
-```markdown
-Syntax highlighted code block
+```markdown Markdown Woah!
+This is Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# We have Header 1 Style
+## As well as Header 2 Style
+### And let's not forget Header 3 Style
 
 - Bulleted
 - List
@@ -21,14 +23,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold Wording** and _Italic Font_ and `Code -> Match that C++ and Python vibe` for yout text
 
+Hyperlink Examples, with image included
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll Themes such as the current one being used
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhassanz/LaythHassanZubaidi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
