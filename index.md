@@ -30,7 +30,7 @@ This is Syntax highlighted code block
 **Bold Wording** and _Italic Font_ and `Code -> Match that C++ and Python vibe` for yout text
 
 Hyperlink Examples, with image included
-[Link](url) and ![Image](src)
+[Link](https://github.com/) and ![Image](https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
